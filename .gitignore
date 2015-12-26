@@ -26,3 +26,11 @@
 *.exe
 *.out
 *.app
+
+# Extra stuff
+*.sdf
+*.suo
+*.user
+onut/
+Debug/
+Release/
